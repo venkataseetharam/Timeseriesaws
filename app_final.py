@@ -6,7 +6,7 @@ mean_market_close = 82.13571
 mean_volume = 115548700.0
 
 # Streamlit app layout
-st.title("Tesla Prediction App")
+st.title("Tesla Price Prediction App")
 
 st.write("Provide the input data for prediction:")
 
